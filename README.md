@@ -1,7 +1,8 @@
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Michelyserras&theme=transparent&bg_color=000&border_color=B3F5ED&show_icons=true&icon_color=33FFE6&title_color=FE5ED9&text_color=FFF)  
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Michelyserras&bg_color=000&border_color=B3F5ED&title_color=FE5ED9&text_color=FFF)
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Michelyserras&theme=transparent&bg_color=000&border_color=B3F5ED&show_icons=true&icon_color=33FFE6&title_color=FE5ED9&text_color=FFF)
+ ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Michelyserras&layout=compact&bg_color=000&border_color=B3F5ED&title_color=FE5ED9&text_color=FFF)
+<!--![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Michelyserras&bg_color=000&border_color=B3F5ED&title_color=FE5ED9&text_color=FFF)--->
 
 ## Interesses e conhecimentos: 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
