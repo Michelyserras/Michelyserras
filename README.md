@@ -3,8 +3,7 @@
 <!-- ! <a> ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Michelyserras&theme=transparent&bg_color=000&border_color=EE40A7&show_icons=true&icon_color=33FFE6&title_color=F3B8DB&text_color=FFF) 
 </a> --->
 
-<a> 
- ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Michelyserras&&layout=compact&bg_color=000&border_color=EE40A7&title_color=F3B8DB&text_color=FFF)
+<a> ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/username=Michelyserras&&layout=compact&bg_color=000&border_color=EE40A7&title_color=F3B8DB&text_color=FFF)
 </a>
 <!--![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Michelyserras&bg_color=000&border_color=B3F5ED&title_color=FE5ED9&text_color=FFF)--->
 
