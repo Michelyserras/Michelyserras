@@ -7,6 +7,8 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Michelyserras&theme=transparent&bg_color=000&border_color=EE40A7&show_icons=true&icon_color=33FFE6&title_color=F3B8DB&text_color=FFF)
+ ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Michelyserras&&layout=donut&bg_color=000&border_color=EE40A7&title_color=F3B8DB&text_color=FFF)
 <!---
 Michelyserras/Michelyserras is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
