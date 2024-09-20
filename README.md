@@ -14,7 +14,7 @@
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Michelyserras&&layout=donut&bg_color=000&border_color=EE40A7&title_color=F3B8DB&text_color=FFF)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Michelyserras&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 <!---
 Michelyserras/Michelyserras is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
