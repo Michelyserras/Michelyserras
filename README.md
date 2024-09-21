@@ -2,7 +2,7 @@
 <h1 align="center">Olá 👋, sou Michely Serras</h1>
 <h3 align="center">Estudante de análise e desenvolvimento de sistemas no Instituto Federal de São Paulo</h3>
 
-<h3 align="left">Conecte-se comigo:</h3>
+
 <p align="left">
 </p>
 
