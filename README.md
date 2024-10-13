@@ -1,10 +1,12 @@
 
-<h1 align="right">Olá 👋, sou Michely Serras</h1>
+<h1 align="center">Olá 👋🏾👩🏾‍🦱, sou Michely Serras</h1>
 
-<h4>Estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo</h4>
+<h5>Estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo</h5>
 
-| <img src="https://i.pinimg.com/originals/35/98/8b/35988bf09ce2be958e36f4bc8f4575d1.gif" alt="gatinho estudando" style="width: 200px;"> | [![GitHub Streak](https://streak-stats.demolab.com/?user=Michelyserras&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats) | ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Michelyserras&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF) |
+| <img src="https://i.pinimg.com/originals/35/98/8b/35988bf09ce2be958e36f4bc8f4575d1.gif" alt="gatinho estudando" style="height: 200px; width: auto;"> | [![GitHub Streak](https://streak-stats.demolab.com/?user=Michelyserras&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats) | <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Michelyserras&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="Top Langs" style="height: 200px; width: auto;"> |
 |:-----------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+
+
 
 
 
