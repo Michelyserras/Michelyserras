@@ -4,11 +4,11 @@
   <tr>
     <td>
       - 🎓 Estudante de Análise e Desenvolvimento de Sistemas no IFSP(4/6).<br><br>
-      - 🚀 Apaixonada por tecnologia.                                      <br><br>
+      - 🚀 Apaixonada por tecnologia. <br><br>
       - 🌱 Ainda tenho muito para aprender.<br>
     </td>
     <td>
-      <img src="https://i.pinimg.com/originals/35/98/8b/35988bf09ce2be958e36f4bc8f4575d1.gif" alt="gatinho estudando" width="278">
+      <img src="https://i.pinimg.com/originals/35/98/8b/35988bf09ce2be958e36f4bc8f4575d1.gif" alt="gatinho estudando" width="350">
     </td>
   </tr>
 </table>
