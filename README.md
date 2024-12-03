@@ -4,7 +4,7 @@
   <tr>
     <td>
       - 🎓 Estudante de Análise e Desenvolvimento de Sistemas no IFSP(4/6).<br><br>
-      - 🚀 Apaixonada por tecnologia. <br><br>
+      - 🚀 Apaixonada por tecnologia.                                      <br><br>
       - 🌱 Ainda tenho muito para aprender.<br>
     </td>
     <td>
