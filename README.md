@@ -1,9 +1,9 @@
 <div align="center">
-<img src="https://i.pinimg.com/736x/38/55/ba/3855ba0e49d4427170977664be677507.jpg" align="center" style="width: 100%" />
+<img src="https://i.pinimg.com/736x/38/55/ba/3855ba0e49d4427170977664be677507.jpg" align="center" />
 </div>  
   
 
-### <div align="center">🌟 Olá, eu sou a Michely. Iniciante em programação e estudante de análise e desenvolvimento de sistemas. </div>  
+### <div align="center"> Olá, eu sou a Michely. Iniciante em programação e estudante de análise e desenvolvimento de sistemas. </div>  
   
 
 - 🔭 Atualmente estou cursando o 5° semestre de ADS  
@@ -63,8 +63,8 @@
 <br/>  
 
 
-## Github Stats  <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Michelyserras&show_icons=true&count_private=true&hide_border=true&title_color=D45A91&icon_color=E28AAA&text_color=A64D79&bg_color=F8D5E1" align="center" style ="width: 100%"/>
+## Github Stats  <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Michelyserras&show_icons=true&count_private=true&hide_border=true&title_color=D45A91&icon_color=E28AAA&text_color=A64D79&bg_color=F8D5E1" align="center"/>
 </div>
 
 
