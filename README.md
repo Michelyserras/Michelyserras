@@ -25,25 +25,24 @@
 ## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&color=FFA4C7&repeat=false&width=435&lines=%E2%9D%A4%EF%B8%8F+Favorite+Repos" alt="Typing SVG" /></a>
 
 <div align="center">
-<!-- Link para o repositório de projeto java -->
+<!-- Link para o repositório de projeto Java -->
 <a href="https://github.com/Michelyserras/LojaComSpring">
   <picture>
-    <img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Michelyserras&repo=LojaComSpring&theme=react&bg_color=fdd7e6&title_color=ff75aa&border_color=FFA4C7&icon_color=ff75aa&show_icons=true&text_color=ab406a" alt="DejaVu" />
+    <img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Michelyserras&repo=LojaComSpring&theme=react&bg_color=0d1117&title_color=ff75aa&border_color=ff75aa&icon_color=ff75aa&show_icons=true&text_color=ffffff" alt="LojaComSpring" />
   </picture>
 </a>
 
-<!-- Link para o repositório projetos desenvolvimento web -->
+<!-- Link para o repositório de projetos de desenvolvimento web -->
 <a href="https://github.com/Michelyserras/Projetos">
   <picture>
-    <img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Michelyserras&repo=Projetos&theme=react&bg_color=fdd7e6&title_color=ff75aa&border_color=FFA4C7&icon_color=ff75aa&show_icons=true&text_color=ab406a" alt="Api's utilizando typescript" />
+    <img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Michelyserras&repo=Projetos&theme=react&bg_color=0d1117&title_color=ff75aa&border_color=ff75aa&icon_color=ff75aa&show_icons=true&text_color=ffffff" alt="Projetos" />
   </picture>
 </a>
-
 
 <p align="center"><br>
   <a href="https://github.com/Michelyserras?tab=repositories">
     <picture>
-      <img width="32.5%" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-FFA4C7?style=for-the-badge&logoColor=fff&logo=repo" alt="All Repositories" title="All Repositories" />
+      <img width="32.5%" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-ff75aa?style=for-the-badge&logoColor=fff&logo=repo" alt="All Repositories" title="All Repositories" />
     </picture>
   </a>
 </p>
