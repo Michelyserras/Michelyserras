@@ -28,14 +28,14 @@
 <!-- Link para o repositório de projeto Java -->
 <a href="https://github.com/Michelyserras/commerce-api">
   <picture>
-    <img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Michelyserras&repo=commerce-api&theme=react&bg_color=1e1e1e00&title_color=ff75aa&border_color=ff75aa&icon_color=ff75aa&show_icons=true&text_color=ff75aa&cache_seconds=3600" alt="LojaComSpring" />
+    <img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Michelyserras&repo=commerce-api&theme=react&bg_color=eeeeee&title_color=ff75aa&border_color=ff75aa&icon_color=ff75aa&show_icons=true&text_color=ff75aa&cache_seconds=3600" alt="LojaComSpring" />
   </picture>
 </a>
 
 <!-- Link para o repositório de projetos de desenvolvimento web -->
 <a href="https://github.com/Michelyserras/Projetos">
   <picture>
-    <img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Michelyserras&repo=Projetos&theme=react&bg_color=1e1e1e00&title_color=ff75aa&border_color=ff75aa&icon_color=ff75aa&show_icons=true&text_color=ff75aa&cache_seconds=3600" alt="Projetos" />
+    <img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Michelyserras&repo=Projetos&theme=react&bg_color=eeeeee&title_color=ff75aa&border_color=ff75aa&icon_color=ff75aa&show_icons=true&text_color=ff75aa&cache_seconds=3600" alt="Projetos" />
   </picture>
 </a>
 
@@ -48,6 +48,7 @@
 </p>
 
 </div>
+
   
 ## 🛠️ Working with: 
 
