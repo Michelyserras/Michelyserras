@@ -17,7 +17,7 @@
 
 - 💻 Buscando a minha primeira oportunidade na área de tecnologia.
 
-- ✨ **Pronouns:** She/Her
+- ✨ **Pronouns:** Ela/Dela
 </div>
 <br><br>
 
@@ -28,14 +28,14 @@
 <!-- Link para o repositório de projeto Java -->
 <a href="https://github.com/Michelyserras/LojaComSpring">
   <picture>
-    <img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Michelyserras&repo=LojaComSpring&theme=react&bg_color=0d1117&title_color=ff75aa&border_color=ff75aa&icon_color=ff75aa&show_icons=true&text_color=ffffff" alt="LojaComSpring" />
+    <img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Michelyserras&repo=LojaComSpring&theme=react&bg_color=00000000&title_color=ff75aa&border_color=ff75aa&icon_color=ff75aa&show_icons=true&text_color=ff75aa" alt="LojaComSpring" />
   </picture>
 </a>
 
 <!-- Link para o repositório de projetos de desenvolvimento web -->
 <a href="https://github.com/Michelyserras/Projetos">
   <picture>
-    <img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Michelyserras&repo=Projetos&theme=react&bg_color=0d1117&title_color=ff75aa&border_color=ff75aa&icon_color=ff75aa&show_icons=true&text_color=ffffff" alt="Projetos" />
+    <img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Michelyserras&repo=Projetos&theme=react&bg_color=00000000&title_color=ff75aa&border_color=ff75aa&icon_color=ff75aa&show_icons=true&text_color=ff75aa" alt="Projetos" />
   </picture>
 </a>
 
@@ -107,4 +107,8 @@
   <a href="mailto:michelybrrs@gmail.com" target="_blank" style="margin-right: 10px;">
      <img src="https://img.shields.io/badge/-Email-ffa4c7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" width="100" height="30" />
 </a>
+ </div>
+<br><br>
+ <div align="center">
+    <img src="https://komarev.com/ghpvc/?username=Michelyserras&color=ff75aa&style=flat" width="100" height="30" >
  </div>
