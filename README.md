@@ -7,7 +7,7 @@
 
 
 <div>
-   <img align="right" alt="Michelyserras" width="280" height="230" src="https://i.pinimg.com/736x/ce/ee/8a/ceee8ad6d8d9cb883bfd4f7806d4c117.jpg">
+   <img align="right" alt="Michelyserras" width="280" height="230" src="https://i.pinimg.com/736x/6b/99/75/6b99755f575eed34ec1d021488600ab7.jpg">
 
 - ❤️ Apaixonada por tecnologia.  
   
