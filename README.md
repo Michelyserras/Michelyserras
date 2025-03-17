@@ -85,7 +85,7 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img  width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=Michelyserras&theme=omni&background=00000000&border=FFA4C7&ring=FFA4C7&stroke=FFA4C7&fire=FFA4C7&currStreakNum=FF4BB4&sideNums=FF4BB4&currStreakLabel=FF4BB4&dates=FF4BB4" alt="GitHub Streak" />
+    <img  width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=Michelyserras&theme=omni&background=00000000&border=FFA4C7&ring=FFA4C7&stroke=FFA4C7&fire=FFA4C7&currStreakNum=FF4BB4&sideNums=FF4BB4&currStreakLabel=FF4BB4&dates=FF4BB4" alt="GitHub Streak"/>
   </a>
 </p>
 </div>
