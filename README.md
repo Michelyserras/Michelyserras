@@ -77,11 +77,15 @@
 <div align="center">
 <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michelyserras&cardType=github&bg_color=00000000&Text=000&title_color=FFA4C7FF&border_color=FFA4C7&card_width=200" alt="readme-typing-svg">
 
- <p>
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=tokyonight&preferLogin=true&Background=00000000&Text=000&Title=FFA4C7&Ring=FFA4C7&Border=FFA4C7">
-    <img   width="50%" alt="MichelySerras's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Michelyserras?cardType=github&theme=tokyonight&preferLogin=true&Background=00000000&Text=FFA4C7FF&Title=FFA4C7&Ring=FFA4C7&Border=FFA4C7" />
+<p>
+  <a href="https://github.com/Michelyserras">
+    <img width="50%" 
+         alt="Estatísticas do GitHub de Michelyserras"
+         src="https://github-readme-stats.vercel.app/api?username=Michelyserras&show_icons=true&theme=tokyonight&title_color=FFA4C7&text_color=FFA4C7&icon_color=FFA4C7&border_color=FFA4C7&bg_color=00000000" />
   </a>
 </p>
+
+
 
 <p align="center">
   <a href="https://git.io/streak-stats">
