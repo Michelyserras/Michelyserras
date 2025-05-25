@@ -1,114 +1,97 @@
+<div align="center">
 
-##  <div align="center"> 👋 Hi! I’m `@Michelyserras`, welcome to my `GitHub profile` (●ˇ∀ˇ●).</div>
+# 👋 Oi, eu sou a Michely!
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=9AA7FF&center=true&vCenter=true&width=435&lines=console.log(%22Olá!%22);System.out.println(%22Bem-vindo!%22);SELECT+*+FROM+pessoas+WHERE+nome+%3D+'Michely';)
+
+
+
+</div>
+
+
+
+## ✨ Sobre mim
+
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** – IFSP  
+- 🧠 Focada no **back-end** com Java, C#, SQL e APIs REST  
+- 🌱 Sempre aprendendo algo novo  
+- 💼 Em busca da **minha primeira oportunidade na área de TI**  
+- 👩‍💻 Pronomes: **Ela/Dela**
+
 <br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira&weight=500&size=17&duration=5015&pause=1000&color=FF75AA&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&separator=%3C&lines=System.out.println(%22Welcome+to+my+profile!%22);%3CConsole.WriteLine(%22My+name+is+Michely%22);%3CConsole.log(%22I+hope+you+enjoy+it!%22);%3CSELECT+*+FROM+pessoas+WHERE+nome+%3D+'Michely';" alt="Typing SVG" />
+
+
+## 💻 Tecnologias que utilizo
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-1e1e2f?style=for-the-badge&logo=openjdk&logoColor=9aa7ff)
+![C#](https://img.shields.io/badge/C%23-1e1e2f?style=for-the-badge&logo=csharp&logoColor=9aa7ff)
+![JavaScript](https://img.shields.io/badge/JavaScript-1e1e2f?style=for-the-badge&logo=javascript&logoColor=9aa7ff)
+![TypeScript](https://img.shields.io/badge/TypeScript-1e1e2f?style=for-the-badge&logo=typescript&logoColor=9aa7ff)
+![SQL](https://img.shields.io/badge/SQL-1e1e2f?style=for-the-badge&logo=sqlite&logoColor=9aa7ff)
+
+</div>
+
+
+<br>
+
+## 🚀 Projetos em destaque
+
+<div align="left">
+
+<a href="https://github.com/Michelyserras/commerce-api">
+  <img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Michelyserras&repo=commerce-api&theme=github_dark&bg_color=00000000&title_color=9AA7FF&text_color=cfcfcf&icon_color=9AA7FF&border_color=2f2f3f" />
 </a>
 
+<a href="https://github.com/Michelyserras/Projetos">
+  <img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Michelyserras&repo=Projetos&theme=github_dark&bg_color=00000000&title_color=9AA7FF&text_color=cfcfcf&icon_color=9AA7FF&border_color=2f2f3f" />
+</a>
 
-
-<div>
-   <img align="right" alt="Michelyserras" width="280" height="230" src="https://i.pinimg.com/736x/6b/99/75/6b99755f575eed34ec1d021488600ab7.jpg">
-
-- ❤️ Apaixonada por tecnologia.  
-  
-- 🎓 Atualmente estudando **Análise e Desenvolvimento de Sistemas** no IFSP.
-
-- 🌱  Estou interessada na área de desenvolvimento back-end!
-
-- 💻 Buscando a minha primeira oportunidade na área de tecnologia.
-
-- ✨ **Pronouns:** Ela/Dela
-</div>
+</div
 <br><br>
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&color=FFA4C7&repeat=false&width=435&lines=%E2%9D%A4%EF%B8%8F+Favorite+Repos" alt="Typing SVG" /></a>
-
+## 📊 Estatísticas
 <div align="center">
-<!-- Link para o repositório de projeto Java -->
-<a href="https://github.com/Michelyserras/commerce-api">
-    <img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Michelyserras&repo=commerce-api&theme=react&bg_color=00000000&title_color=ff75aa&border_color=ff75aa&icon_color=ff75aa&show_icons=true&text_color=ff75aa&cache_seconds=3600" alt="LojaComSpring" />
-</a>
-
-<!-- Link para o repositório de projetos de desenvolvimento web -->
-<a href="https://github.com/Michelyserras/Projetos">
-    <img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Michelyserras&repo=Projetos&theme=react&bg_color=00000000&title_color=ff75aa&border_color=ff75aa&icon_color=ff75aa&show_icons=true&text_color=ff75aa&cache_seconds=3600" alt="Projetos" />
-</a>
-
-<p align="center"><br>
-  <a href="https://github.com/Michelyserras?tab=repositories">
-      <img width="32.5%" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-ff75aa?style=for-the-badge&logoColor=fff&logo=repo" alt="All Repositories" title="All Repositories" />
-  </a>
-</p>
-
-</div>
-
-  
-## 🛠️ Working with: 
-
-  <table align="center">
-    <tr>
-        <td align="center">
-             <img style="width: 100%; max-width: 300px;" src="https://github.com/user-attachments/assets/56735c1b-a91d-4f40-8dd7-b9276f44b004" alt="java-coffee-cup-logo"/>
-            <br>Java 
-        </td>
-        <td align="center">
-            <img  style="width: 90%; max-width: 300px;"src="https://github.com/user-attachments/assets/ae7f17c5-fc6a-4d8f-a2a2-c60e96b95a4c" alt="csharp-logo"/>
-            <br>C#
-        </td>
-        <td align="center">
-            <img  style="width: 90%; max-width: 300px;" src="https://github.com/user-attachments/assets/b53324b7-7f74-46e6-a5c0-635e4e5c1849" alt="javascript-logo"/>
-            <br>Javascript
-        </td>
-       <td align="center">
-            <img style="width: 90%; max-width: 300px;" src="https://github.com/user-attachments/assets/fa3f6247-07a5-4b5d-8f17-4f329aa882da" alt="typescript-logo"/>
-            <br>TypeScript
-        </td>
-         </td>
-        <td align="center">
-            <img  style="width: 90%; max-width: 300px;" src="https://github.com/user-attachments/assets/05414f97-0364-47b2-99ba-fbe01086ecfe" alt="sql-logo"/>
-            <br>SQL
-        </td>
-    </tr>
-</table>
-
-
-##  📊 Stats  
-<div align="center">
-<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michelyserras&cardType=github&bg_color=00000000&Text=000&title_color=FFA4C7FF&border_color=FFA4C7&card_width=200" alt="readme-typing-svg">
-
-<p>
+  <img align="right" width="45%" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michelyserras&cardType=github&bg_color=00000000&text_color=9AA7FF&title_color=9AA7FF&border_color=2f2f3f&card_width=200" 
+       alt="readme-typing-svg" />
+   <p>
   <a href="https://github.com/Michelyserras">
     <img width="50%" 
          alt="Estatísticas do GitHub de Michelyserras"
-         src="https://github-readme-stats.vercel.app/api?username=Michelyserras&show_icons=true&theme=tokyonight&title_color=FFA4C7&text_color=FFA4C7&icon_color=FFA4C7&border_color=FFA4C7&bg_color=00000000" />
+         src="https://github-readme-stats.vercel.app/api?username=Michelyserras&show_icons=true&theme=github_dark&title_color=9AA7FF&text_color=9AA7FF&icon_color=9AA7FF&border_color=2f2f3f&bg_color=00000000" />
   </a>
 </p>
 
 
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img  width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=Michelyserras&theme=omni&background=00000000&border=FFA4C7&ring=FFA4C7&stroke=FFA4C7&fire=FFA4C7&currStreakNum=FF4BB4&sideNums=FF4BB4&currStreakLabel=FF4BB4&dates=FF4BB4" alt="GitHub Streak"/>
-  </a>
-</p>
+  <p align="center">
+    <a href="https://git.io/streak-stats">
+      <img width="50%" 
+           src="https://github-readme-streak-stats.herokuapp.com?user=Michelyserras&theme=dark&background=00000000&border=2f2f3f&ring=9AA7FF&stroke=9AA7FF&fire=9AA7FF&currStreakNum=FF4BB4&sideNums=FF4BB4&currStreakLabel=FF4BB4&dates=FF4BB4" 
+           alt="GitHub Streak"/>
+    </a>
+  </p>
+  <br>
 </div>
 
 
-## 📲 Connect with me:
-<div  align="center">
-<a href="https://www.linkedin.com/in/michelySerras" target="_blank" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/-LinkedIn-ffa4c7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="100" height="30" />
-</a>
-<a href="https://www.instagram.com/michely.serrass/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-ffa4c7?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" width="100" height="30" />
+## 🌐 Contato
+<br>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/michelySerras" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-1e1e2f?style=for-the-badge&logo=linkedin&logoColor=9aa7ff" height="35"/>
 </a>
 
-  <a href="mailto:michelybrrs@gmail.com" target="_blank" style="margin-right: 10px;">
-     <img src="https://img.shields.io/badge/-Email-ffa4c7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" width="100" height="30" />
+<a href="https://www.instagram.com/michely.serrass/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-1e1e2f?style=for-the-badge&logo=instagram&logoColor=9aa7ff" height="35"/>
 </a>
- </div>
-<br><br>
- <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=Michelyserras&color=ff75aa&style=flat" width="100" height="30" >
- </div>
+
+<a href="mailto:michelybrrs@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-1e1e2f?style=for-the-badge&logo=gmail&logoColor=9aa7ff" height="35"/>
+</a>
+
+</div>
+
