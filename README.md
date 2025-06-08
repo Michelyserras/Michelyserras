@@ -8,10 +8,6 @@
 
 </div>
 
-# Seja bem-vindo ao meu perfil :)
-<br>
-
-
 ## ✨ Sobre mim 
 
 - 🎓 Estudando **Análise e Desenvolvimento de Sistemas** no IFSP  
