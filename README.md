@@ -1,5 +1,5 @@
 <p>
-  <img src="./assets/pixel-art.gif" width=100% heigth=50%>
+  <img src="./assets/animate-background-technology.gif" width=100% heigth=50%>
 </p>
 
 <div align="left">
@@ -7,8 +7,6 @@
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=9AA7FF&center=true&vCenter=true&width=435&lines=console.log(%22Olá!%22);System.out.println(%22Bem-vindo!%22);SELECT+*+FROM+pessoas+WHERE+nome+%3D+'Michely';)
 
 </div>
-
-## Seja bem-vindo ao meu perfil :)
 
 
 ## ✨ Sobre mim 
