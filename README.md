@@ -1,19 +1,21 @@
-<div align="center">
+<p>
+  <img src="./assets/pixel-art.gif" width=100% heigth=50%>
+</p>
 
-# 👋 Oi, eu sou a Michely!
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=9AA7FF&center=true&vCenter=true&width=435&lines=console.log(%22Olá!%22);System.out.println(%22Bem-vindo!%22);SELECT+*+FROM+pessoas+WHERE+nome+%3D+'Michely';)
+<div align="left">
 
-
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=9AA7FF&center=true&vCenter=true&width=435&lines=console.log(%22Olá!%22);System.out.println(%22Bem-vindo!%22);SELECT+*+FROM+pessoas+WHERE+nome+%3D+'Michely';)
 
 </div>
 
+## Seja bem-vindo ao meu perfil :)
 
 
-## ✨ Sobre mim
+## ✨ Sobre mim 
 
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** – IFSP  
-- 🧠 Focada no **back-end** com Java, C#, SQL e APIs REST  
-- 🌱 Sempre aprendendo algo novo  
+- 🎓 Estudando **Análise e Desenvolvimento de Sistemas** no IFSP  
+- 🧠 Focada em aprender novas tecnologias sobre desenvolvimento fullstack
+- 🌱 Atualmente aprendendo sobre **Java** e **React**  
 - 💼 Em busca da **minha primeira oportunidade na área de TI**  
 - 👩‍💻 Pronomes: **Ela/Dela**
 
