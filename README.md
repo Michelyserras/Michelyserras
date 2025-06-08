@@ -1,5 +1,5 @@
 <p>
-  <img src="./assets/pixel-art.gif" width=100% heigth=50%>
+  <img src="./assets/pixel-art.gif" width=100% heigth=30%>
 </p>
 
 <div align="left">
@@ -8,7 +8,8 @@
 
 </div>
 
-## Seja bem-vindo ao meu perfil :)
+# Seja bem-vindo ao meu perfil :)
+<br>
 
 
 ## ✨ Sobre mim 
