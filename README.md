@@ -37,14 +37,14 @@
 
 ## 🚀 Projetos em destaque
 
-<div align="left">
+<div align="center">
 
 <a href="https://github.com/Michelyserras/commerce-api">
-  <img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Michelyserras&repo=commerce-api&theme=github_dark&bg_color=00000000&title_color=9AA7FF&text_color=cfcfcf&icon_color=9AA7FF&border_color=2f2f3f" />
+  <img width="45%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Michelyserras&repo=commerce-api&theme=github_dark&bg_color=00000000&title_color=9AA7FF&text_color=cfcfcf&icon_color=9AA7FF&border_color=2f2f3f" />
 </a>
 
 <a href="https://github.com/Michelyserras/Projetos">
-  <img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Michelyserras&repo=Projetos&theme=github_dark&bg_color=00000000&title_color=9AA7FF&text_color=cfcfcf&icon_color=9AA7FF&border_color=2f2f3f" />
+  <img width="45%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Michelyserras&repo=Projetos&theme=github_dark&bg_color=00000000&title_color=9AA7FF&text_color=cfcfcf&icon_color=9AA7FF&border_color=2f2f3f" />
 </a>
 
 </div
