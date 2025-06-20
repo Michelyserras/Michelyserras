@@ -59,7 +59,7 @@
 <div align="center">
  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&preferLogin=true&Text=9AA7FF&Title=7F89D2&Border=9E9ED4&Ring=7F89D2&Background=00000000">
   <img align="right" width="45%" 
-     src="https://awesome-github-stats.azurewebsites.net/user-stats/Michelyserras?cardType=github&preferLogin=true&Text=9AA7FF&Title=7F89D2&Border=2f2f3f&Ring=7F89D2&Background=00000000" 
+     src="https://awesome-github-stats.azurewebsites.net/user-stats/Michelyserras?cardType=github&preferLogin=true&Text=9AA7FF&Title=7F89D2&Border=2f2f3f&Ring=7F89D2&Background=00000000&Icon=FF4BB4" 
      alt="Michelyserras's GitHub Stats" />
 
 </a>
