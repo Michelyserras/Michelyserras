@@ -40,15 +40,15 @@
 <div align="">
 
 <a href="https://github.com/Michelyserras/commerce-api">
-  <img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Michelyserras&repo=commerce-api&theme=github_dark&bg_color=00000000&title_color=9AA7FF&text_color=cfcfcf&icon_color=9AA7FF&border_color=2f2f3f" />
+  <img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Michelyserras&repo=commerce-api&theme=github_dark&bg_color=00000000&title_color=9AA7FF&text_color=cfcfcf&icon_color=9AA7FF&border_color=9AA7FF" />
 </a>
 
 <a href="https://github.com/Michelyserras/Projetos">
-  <img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Michelyserras&repo=Projetos&theme=github_dark&bg_color=00000000&title_color=9AA7FF&text_color=cfcfcf&icon_color=9AA7FF&border_color=2f2f3f" />
+  <img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Michelyserras&repo=Projetos&theme=github_dark&bg_color=00000000&title_color=9AA7FF&text_color=cfcfcf&icon_color=9AA7FF&border_color=9AA7FF" />
 </a>
 
 <a href="https://github.com/Michelyserras/Analise-vendas-automotivas">
-  <img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Michelyserras&repo=Analise-vendas-automotivas&theme=github_dark&bg_color=00000000&title_color=9AA7FF&text_color=cfcfcf&icon_color=9AA7FF&border_color=2f2f3f" />
+  <img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Michelyserras&repo=Analise-vendas-automotivas&theme=github_dark&bg_color=00000000&title_color=9AA7FF&text_color=cfcfcf&icon_color=9AA7FF&border_color=9AA7FF" />
 </a>
 
 </div
@@ -59,7 +59,7 @@
 <div align="center">
  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&preferLogin=true&Text=9AA7FF&Title=7F89D2&Border=9E9ED4&Ring=7F89D2&Background=00000000">
   <img align="right" width="45%" 
-     src="https://awesome-github-stats.azurewebsites.net/user-stats/Michelyserras?cardType=github&preferLogin=true&Text=9AA7FF&Title=7F89D2&Border=2f2f3f&Ring=7F89D2&Background=00000000&Icon=FF4BB4" 
+     src="https://awesome-github-stats.azurewebsites.net/user-stats/Michelyserras?cardType=github&preferLogin=true&Text=9AA7FF&Title=7F89D2&Border=9AA7FF&Ring=7F89D2&Background=00000000&Icon=FF4BB4" 
      alt="Michelyserras's GitHub Stats" />
 
 </a>
@@ -67,7 +67,7 @@
   <p align="center">
     <a href="https://git.io/streak-stats">
       <img width="50%" 
-           src="https://github-readme-streak-stats.herokuapp.com?user=Michelyserras&theme=dark&background=00000000&border=2f2f3f&ring=9AA7FF&stroke=9AA7FF&fire=9AA7FF&currStreakNum=FF4BB4&sideNums=FF4BB4&currStreakLabel=FF4BB4&dates=FF4BB4" 
+           src="https://github-readme-streak-stats.herokuapp.com?user=Michelyserras&theme=dark&background=00000000&border=9AA7FF&ring=9AA7FF&stroke=9AA7FF&fire=9AA7FF&currStreakNum=FF4BB4&sideNums=FF4BB4&currStreakLabel=FF4BB4&dates=FF4BB4" 
            alt="GitHub Streak"/>
     </a>
   </p>
