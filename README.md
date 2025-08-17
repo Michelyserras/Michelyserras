@@ -14,7 +14,7 @@
 - 🎓 Estudando **Análise e Desenvolvimento de Sistemas** no IFSP  
 - 🧠 Focada em aprender novas tecnologias sobre desenvolvimento fullstack
 - 🌱 Atualmente aprendendo sobre **Java** e **React**  
-- 💼 Em busca da **minha primeira oportunidade na área de TI**  
+- 💼 Em busca da **minha primeira oportunidade na área de desenvolvimento**  
 - 👩‍💻 Pronomes: **Ela/Dela**
 
 <br>
